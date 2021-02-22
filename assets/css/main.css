@@ -1,7 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900");
 
-
 html,
 body,
 div,
@@ -4066,6 +4065,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
   z-index: 2;
   padding: 1em 0 0 0;
   margin-bottom: 5em;
+  font-size: 0.7em;
 }
 
 #footer input,
